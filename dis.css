@@ -1,0 +1,71 @@
+.tit{
+    text-align: center;
+}
+
+.aut{
+    font-style: italic
+   
+}
+
+.img{
+    width: 500px;
+    right: 500px;
+}
+
+.tex1{
+    background-color: peru;
+    color: aqua;
+    font-family: Arial;
+    text-indent:3em;
+}
+
+.tex2{
+    background-color: lawngreen;
+    color: rgb(153, 31, 31);
+    font-family:Helvetica;
+    letter-spacing: 2px;
+}
+
+.tex3{
+    background-color: #7231eb;
+    color: rgb(177, 224, 114);
+    font-family:sans-serif;
+    text-align: center;
+}
+
+.tex4{
+    background-color: rgb(54, 167, 233);
+    color: rgb(252, 0, 0);
+    text-align: right;
+    font-family:cursive;
+}
+
+.tex5{
+    background-color: rgb(113, 147, 241);
+    color: rgb(143, 43, 138);
+    font-family: Verdana;
+    text-align: center;
+    font-weight: 700;
+}
+
+.tex6{
+    background-color: rgb(231, 37, 183);
+    color: rgb(248, 225, 14);
+    font-family:cursive;
+    font-weight: 700;
+}
+
+.tex7{
+    background-color: rgb(109, 16, 117);
+    color:rgb(0, 255, 42);
+    font-family:'Segoe UI';
+    hyphens:auto;
+    border-radius:4px;
+}
+
+.img2{
+    display:block;
+    margin:auto;
+    width: 250px;
+    right: 250px;
+}
